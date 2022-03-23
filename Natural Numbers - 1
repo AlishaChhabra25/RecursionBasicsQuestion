@@ -13,6 +13,3 @@ int main(){
     cout<<summation(N)<<" "; 
     return 0; 
 }
-
-
-// Check this link for explanation 
